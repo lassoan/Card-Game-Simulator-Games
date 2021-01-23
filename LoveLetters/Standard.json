@@ -1,0 +1,60 @@
+{
+	"allCardsUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/AllCards.json",
+	"allSetsUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/AllSets.json",
+	"autoUpdateUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/Standard.json",
+	"bannerImageUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/Banner.png",
+	"cardBackImageUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/CardBack.png",
+	"cardImageUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/sets/{cardSet}/{cardId}.{cardImageFileType}",
+	"cardPrimaryProperty": "rank",
+	"cardProperties": [{
+			"name": "rank",
+			"display": "Rank",
+			"type": "stringEnum"
+		},
+		{
+			"name": "suit",
+			"display": "Suit",
+			"type": "stringEnum"
+		},
+		{
+			"name": "color",
+			"display": "Color",
+			"type": "stringEnum"
+		}
+	],
+	"deckUrls": [{
+			"name": "Standard Love Letters Deck",
+			"url": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters/decks/Standard.txt"
+		}
+	],
+	"enums": [{
+			"property": "rank",
+			"values": {
+				"1": "1",
+				"2": "2",
+				"3": "3",
+				"4": "4",
+				"5": "5",
+				"6": "6",
+				"7": "7",
+				"8": "8"
+			}
+		},
+		{
+			"property": "suit",
+			"values": {
+				"hearts": "Hearts"
+			}
+		},
+		{
+			"property": "color",
+			"values": {
+				"red": "Red"
+			}
+		}
+	],
+  "gamePlayDeckName": "Stock",
+	"gameStartHandCount": 1,
+	"name": "Love Letters",
+	"rulesUrl": "https://raw.githubusercontent.com/lassoan/Card-Game-Simulator-Games/main/LoveLetters"
+}

@@ -1,0 +1,9 @@
+[{"set": "STD_EN", "name":"Guard (1)", "id":"1_guard", "rank":"1", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"Priest (2)", "id":"2_priest", "rank":"2", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"Baron (3)", "id":"3_baron", "rank":"3", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"Handmaid (4)", "id":"4_handmaid", "rank":"4", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"Prince (5)", "id":"5_prince", "rank":"5", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"King (6)", "id":"6_king", "rank":"6", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"Countess (7)", "id":"7_countess", "rank":"7", "suit":"hearts", "color":"red"}
+,{"set": "STD_EN", "name":"Princess (8)", "id":"8_princess", "rank":"8", "suit":"hearts", "color":"red"}
+]
